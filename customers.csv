@@ -1,0 +1,4 @@
+CustomerID,CustomerName,Email,RegionID
+1,Acme Retailers,contact@acmeretail.com,1
+2,Bright Traders,info@bright.com,2
+3,Crest Industries,hello@crest.io,3
